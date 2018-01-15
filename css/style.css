@@ -11,7 +11,7 @@ body {
 }
 
 .container{
-	width: 100%;
+	width: 1721px;
 	overflow:  hidden;
 	/* background: white; */
 	margin:  0 auto;
@@ -172,7 +172,7 @@ padding-bottom: 33px;
     width: 50%;
     float: left;
     text-align: right;
-    padding: 135px;
+    padding: 124px;
     font-size: 18px;
     width: 50%;
     float: left;
@@ -180,6 +180,7 @@ padding-bottom: 33px;
 .wb4{
     width: 50%;
     float: left;
+    margin-bottom: 50px;
 }
 .wb5{
     width: 50%;
@@ -188,7 +189,7 @@ padding-bottom: 33px;
 .wb6{
  
     text-align: left;
-    padding: 184px;
+    padding: 127px;
     font-size: 20px;
     width: 50%;
     float: left;
