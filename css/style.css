@@ -50,10 +50,14 @@ nav ul li a{
     font-size: 18px;
 }
 .banner{
-    width:  100%;
-    padding: 121px 180px;
-    background: #fbfafa;
-    border-top: 3px solid #ececec66;
+    
+width: 100%;
+    
+padding: 121px 180px;
+    
+background: #fbfafa;
+    
+border-top: 3px solid #ececec66;
 }
 .in-p{font-size: 30px;}
 .img{
@@ -67,6 +71,7 @@ nav ul li a{
 .text h1{}
 .banner-submit{border: 5px solid #77a3e4;background: #75a2e4fa;color:  white;border-radius: 50px;padding: 22px 41px;font-size:  20px; text-decoration: none;}
 .information{
+    width: 100%;
     text-align:  center;
     background: #f1f1f1;
     padding: 40px;
@@ -153,6 +158,7 @@ padding-bottom: 33px;
 }
 
 .web{
+    width: 100%;
     text-align:  center;
     padding: 56px;
 }
@@ -218,12 +224,13 @@ padding-bottom: 33px;
 
 .story{
 
+width: 100%;
+
 background: #f1f1f1;
 
 padding: 100px;
 
 text-align:  center;
-
 }
 .story h1{
     font-size: 42px;
@@ -287,6 +294,7 @@ text-align:  center;
     margin-bottom: 65px;
 }
 .rock{
+    width: 100%;
     background: #f1f1f1;
     text-align:  center;
 }
@@ -306,6 +314,7 @@ text-align:  center;
     background: white;
     text-align:  center;
     padding:  65px 0;
+    width: 100%;
 }
 .ending h1{
     font-size:  27px;
@@ -333,6 +342,7 @@ text-align:  center;
     padding-bottom:  350px;
 }
 .translate{
+    width: 100%;
     text-align: center;
     padding: 99px;
     }
@@ -355,6 +365,7 @@ table{
 }
 
 footer{
+    width: 100%;
     text-align:  center;
     color: #888585;
     border-top: 2px solid #ececec;
