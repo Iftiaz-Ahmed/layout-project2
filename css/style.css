@@ -1,21 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 body {
-	margin: 0;
-	padding: 0;
-	font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
 }
 *{
-	box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
 }
 
 .container{
-	width: 1721px;
-	overflow:  hidden;
-	/* background: white; */
-	margin:  0 auto;
-	
+    width: 1500px;
+    overflow:  hidden;
+    /* background: white; */
+    margin:  0 auto;
 }
 
 .logo{
@@ -87,7 +86,7 @@ border-top: 3px solid #ececec66;
     padding-top: -1px;
 }
 .in2 img {
-	width: 50%
+    width: 50%
 }
 .in3{
     float: left;
@@ -99,9 +98,9 @@ border-top: 3px solid #ececec66;
 padding-bottom: 33px;
 }
 .in3 p {
-	
+    
 /* padding:  10px 0; */
-	
+    
 padding-bottom: 33px;
 }
 .in4{
@@ -129,6 +128,7 @@ padding-bottom: 33px;
     float: left;
 }
 .information img {
+    width: 80%;
     padding-top: 35px;
 }
 
@@ -140,7 +140,7 @@ padding-bottom: 33px;
     width: 50%;
     float: left;
     text-align:  left;
-    font-size: 28px;
+    font-size: 25px;
 }
 .in12{
     width: 50%;
@@ -150,10 +150,10 @@ padding-bottom: 33px;
     width: 50%;
     text-align:  left;
     float: left;
-    font-size: 28px;
+    font-size: 25px;
 }
 .in13 a {
-	text-decoration: none;
+    text-decoration: none;
     color: deeppink;
 }
 
@@ -171,14 +171,14 @@ padding-bottom: 33px;
     width: 50%;
     float: left;
     text-align:  left;
-    padding: 148px;
+    padding: 80px;
     font-size:  20px;
 }
 .wb3{
     width: 50%;
     float: left;
     text-align: right;
-    padding: 124px;
+    padding: 103px;
     font-size: 18px;
     width: 50%;
     float: left;
@@ -194,19 +194,27 @@ padding-bottom: 33px;
 }
 .wb6{
  
-    text-align: left;
-    padding: 127px;
-    font-size: 20px;
-    width: 50%;
-    float: left;
+text-align: left;
+ 
+padding: 94px;
+ 
+font-size: 20px;
+ 
+width: 50%;
+ 
+float: left;
 }
 .wb7{
  
-    text-align: right;
-    padding: 116px;
-    font-size: 20px;
-    width: 50%;
-    float: left;
+text-align: right;
+ 
+padding: 68px;
+ 
+font-size: 20px;
+ 
+width: 50%;
+ 
+float: left;
 }
 .wb8{
     width: 50%;
@@ -325,7 +333,7 @@ text-align:  center;
 .en1{
     width:  33.33%;
     float:  left;
-    padding-left:  337px;
+    padding-left: 185px;
     padding-bottom: 350px;
 }
 
@@ -344,7 +352,7 @@ text-align:  center;
 .translate{
     width: 100%;
     text-align: center;
-    padding: 99px;
+    padding: 110px;
     }
 .translate h3{
     font-size:  30px;
@@ -355,9 +363,9 @@ text-align:  center;
     margin:  0;
 }
 table{
-    width:  100%;
-    font-size:  40px;
-    text-align:  left;
+    width: 100%;
+    font-size: 33px;
+    text-align: left;
 }
 .translate a{
     color:  black;
